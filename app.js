@@ -1,6 +1,4 @@
-function setup() {
-  createCanvas(400, 400);
-}
+
 let myMargin;
 //Set some variables
 let myLat = 0;

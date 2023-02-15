@@ -27,7 +27,7 @@ function preload() {
   // preload() runs once
   soundFormats('mp3', 'ogg');
   MySong = "";
-  location1Sound = loadSound('Sounds/50CentinDaclub.mp3');
+  location1Sound = loadSound('Sounds/50CentInDaclub.mp3');
 
   defaultImage = loadImage('Images/sunnyhillpark.jpg');
 }

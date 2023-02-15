@@ -60,7 +60,7 @@ function setup() {
 
   //Location 1
 
-  location1Sound = loadSound('Sounds/50CentinDaclub.mp3');
+  location1Sound = loadSound('Sounds/50CentInDaClub.mp3');
   location1Image = loadImage('Images/sunnyhillpark.jpg');
   location1Text = "Welcome Enjoy";
   //Road
